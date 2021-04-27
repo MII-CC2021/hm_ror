@@ -10,28 +10,18 @@ https://guides.rubyonrails.org/v5.0/getting_started.html
 
 Más información:
 
-- Models
-    Active Record Basics
-    Active Record Validations
-    Active Record Associations
-    Active Model Basics
-    Work in progress
+- Models:
+    - Active Record Basics
+    - Active Record Validations
+    - Active Record Associations
+    - Active Model Basics
 
 - Views
+    - Action View Overview
+    - Layouts and Rendering in Rails
+    - Action View Form Helpers
 
-Action View Overview
-    Work in progress
+- Controllers
+    - Action Controller Overview
 
-    This guide provides an introduction to Action View and introduces a few of the more common view helpers.
-Layouts and Rendering in Rails
-
-    This guide covers the basic layout features of Action Controller and Action View, including rendering and redirecting, using content_for blocks, and working with partials.
-Action View Form Helpers
-
-    Guide to using built-in Form helpers.
-
-Controllers
-
-Action Controller Overview
-
-    This guide covers how controllers work and how they fit into the request cycle in your application. It includes sessions, filters, and cookies, data streaming, and dealing with exceptions raised by a request, among other topics.
+    
